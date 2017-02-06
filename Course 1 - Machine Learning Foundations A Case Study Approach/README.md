@@ -1,16 +1,41 @@
 # Course 1 - Machine Learning Foundations: A Case Study Approach
 
 ## week1
+* Why you should learn machine learning with us
+* Who this specialization is for and what you will be able to do
+* Getting started with the tools for the course
+* Getting started with Python and the IPython Notebook
+* Getting started with SFrames for data engineering and analysis
 
 ## week2
+* Linear regression modeling
+* Evaluating regression models
+* Predicting house prices: IPython Notebook
 
 ## week3
+* Classification modeling
+* Evaluating classification models
+* Analyzing sentiment: IPython Notebook 
 
 ## week4
+* Algorithms for retrieval and measuring similarity of documents
+* Clustering models and algorithms
+* Document retrieval: IPython Notebook
 
 ## week5
+* Recommender systems 
+* Co-occurrence matrices for collaborative filtering
+* Matrix factorization
+* Performance metrics for recommender systems
+* Song recommender: IPython Notebook
 
 ## week6
+* Neural networks: Learning very non-linear features
+* Deep learning & deep features
+* Deep features for image classification: IPython Notebook
+* Deep features for image retrieval: IPython Notebook 
+* Deploying machine learning as a service
+* Machine learning challenges and future directions
 
 ## Some useful papers on computer vision:
 
