@@ -11,7 +11,8 @@ Build Intelligent Applications - ML - University of Washington - Coursera
 * Closing Remarks
 
 #### Taught by: 
-* 
+* Carlos Guestrin, Amazon Professor of Machine Learning
+*  Emily Fox, Amazon Professor of Machine Learning
 
 ### Rating     :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
