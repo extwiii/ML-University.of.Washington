@@ -1,6 +1,14 @@
 # ML-University.of.Washington
 Build Intelligent Applications - ML - University of Washington - Coursera
 
+## Course 1 - Machine Learning Foundations: A Case Study Approach
+* Welcome
+* Regression: Predicting House Prices
+* Classification: Analyzing Sentiment
+* Clustering and Similarity: Retrieving Documents
+* Recommending Products
+* Deep Learning: Searching for Images
+* Closing Remarks
 
 #### Taught by: 
 * 
