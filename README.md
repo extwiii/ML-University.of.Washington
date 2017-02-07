@@ -10,7 +10,7 @@ Build Intelligent Applications - ML - University of Washington - Coursera
 * Deep Learning: Searching for Images
 * Closing Remarks
 
-## Course 2 - 
+## Course 2 - Machine Learning: Regression
 
 #### Taught by: 
 * Carlos Guestrin, Amazon Professor of Machine Learning
