@@ -11,6 +11,8 @@ Build Intelligent Applications - ML - University of Washington - Coursera
 * Closing Remarks
 
 ## Course 2 - Machine Learning: Regression
+* Welcome
+* Simple Linear Regression
 
 #### Taught by: 
 * Carlos Guestrin, Amazon Professor of Machine Learning
