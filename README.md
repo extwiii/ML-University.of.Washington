@@ -13,6 +13,8 @@ Build Intelligent Applications - ML - University of Washington - Coursera
 ## Course 2 - Machine Learning: Regression
 * Welcome
 * Simple Linear Regression
+* Multiple Regression
+* Assessing Performance
 
 #### Taught by: 
 * Carlos Guestrin, Amazon Professor of Machine Learning
