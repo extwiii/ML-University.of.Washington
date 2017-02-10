@@ -15,6 +15,8 @@ Build Intelligent Applications - ML - University of Washington - Coursera
 * Simple Linear Regression
 * Multiple Regression
 * Assessing Performance
+* Ridge Regression
+* Feature Selection & Lasso
 
 #### Taught by: 
 * Carlos Guestrin, Amazon Professor of Machine Learning
