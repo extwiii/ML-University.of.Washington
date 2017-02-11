@@ -17,6 +17,7 @@ Build Intelligent Applications - ML - University of Washington - Coursera
 * Assessing Performance
 * Ridge Regression
 * Feature Selection & Lasso
+* Nearest Neighbors & Kernel Regression
 
 #### Taught by: 
 * Carlos Guestrin, Amazon Professor of Machine Learning
