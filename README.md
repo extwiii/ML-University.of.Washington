@@ -18,6 +18,7 @@ Build Intelligent Applications - ML - University of Washington - Coursera
 * Ridge Regression
 * Feature Selection & Lasso
 * Nearest Neighbors & Kernel Regression
+* Closing Remarks
 
 #### Taught by: 
 * Carlos Guestrin, Amazon Professor of Machine Learning
