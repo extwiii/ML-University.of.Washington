@@ -32,7 +32,19 @@
 * Strategy 3: Modify learning algorithm to explicitly handle missing data
 
 ##week5
+* The amazing idea of boosting a classifier
+* AdaBoost
+* Applying AdaBoost
+* Convergence and overfitting in boosting
 
 ##week6
+* Why use precision & recall as quality metrics
+* Precision & recall explained
+* The precision-recall tradeoff
 
 ##week7
+* Scaling ML to huge datasets
+* Scaling ML with stochastic gradient
+* Understanding why stochastic gradient works
+* Stochastic gradient: Practical tricks
+* Online learning: Fitting models from streaming data
