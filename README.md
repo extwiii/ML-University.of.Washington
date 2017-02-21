@@ -20,6 +20,18 @@ Build Intelligent Applications - ML - University of Washington - Coursera
 * Nearest Neighbors & Kernel Regression
 * Closing Remarks
 
+## Course 3 - Machine Learning: Classification
+* Welcome!
+* Linear Classifiers & Logistic Regression
+* Learning Linear Classifiers
+* Overfitting & Regularization in Logistic Regression
+* Decision Trees
+* Preventing Overfitting in Decision Trees
+* Handling Missing Data
+* Boosting
+* Precision-Recall
+* Scaling to Huge Datasets & Online Learning
+
 #### Taught by: 
 * Carlos Guestrin, Amazon Professor of Machine Learning
 *  Emily Fox, Amazon Professor of Machine Learning
