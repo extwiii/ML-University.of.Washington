@@ -32,6 +32,14 @@ Build Intelligent Applications - ML - University of Washington - Coursera
 * Precision-Recall
 * Scaling to Huge Datasets & Online Learning
 
+## Course 4 - Machine Learning: Clustering & Retrieval
+* Welcome
+* Nearest Neighbor Search
+* Clustering with k-means
+* Mixture Models
+* Mixed Membership Modeling via Latent Dirichlet Allocation
+* Hierarchical Clustering & Closing Remarks
+
 #### Taught by: 
 * Carlos Guestrin, Amazon Professor of Machine Learning
 *  Emily Fox, Amazon Professor of Machine Learning
