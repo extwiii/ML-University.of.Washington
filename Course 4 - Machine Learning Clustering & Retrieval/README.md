@@ -21,5 +21,11 @@
 * The EM algorithm
 
 ## week5
+* Introduction to latent Dirichlet allocation
+* Bayesian inference via Gibbs sampling
+* Collapsed Gibbs sampling for LDA
 
 ## week6
+* What we've learned
+* Hierarchical clustering and clustering for time series segmentation
+* Summary and what's ahead in the specialization
