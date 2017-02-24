@@ -1,4 +1,4 @@
-# ML-University.of.Washington
+# ML-University.of.Washington :white_check_mark:
 Build Intelligent Applications - ML - University of Washington - Coursera
 
 ## Course 1 - Machine Learning Foundations: A Case Study Approach
